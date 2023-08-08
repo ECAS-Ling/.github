@@ -1,6 +1,8 @@
 ## ECAS-Ling
-这是东南大学集成电路学院凌明老师ECAS课题组的代码仓库。  
-ECAS全称为Embedded Computing Architecture and Systems，下列三个组Vina，Quantitative Analysis，RISC-V。
+ECAS (Embedded Computing Architecture and Systems) Group belongs to Ming Ling, School of Intergrated Circuits, Southeast University.  
+Group members are working on 3 areas: Vina, Quantitative Analysis and RISC-V.
+
+
 <!--
 
 **Here are some ideas to get you started:**
