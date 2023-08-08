@@ -1,5 +1,6 @@
-## Hi there 👋
-这是凌明老师课题组的代码仓库。
+## ECAS-Ling
+这是东南大学集成电路学院凌明老师ECAS课题组的代码仓库。  
+ECAS全称为Embedded Computing Architecture and Systems，下列三个组Vina，Quantitative Analysis，RISC-V。
 <!--
 
 **Here are some ideas to get you started:**
