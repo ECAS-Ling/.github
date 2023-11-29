@@ -8,7 +8,8 @@
 张传照  dreamer-maker  
 
 # 量化组
-彭展    peng1103  
+彭展    peng1103
+赵康    Aspirant-Snail  
 陆文杰  aluwen  
 韩硕    hanwuwu226197  
 邵毅    Lyuansama  
