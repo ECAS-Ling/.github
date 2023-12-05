@@ -13,6 +13,7 @@
 陆文杰  aluwen  
 韩硕    hanwuwu226197  
 邵毅    Lyuansama  
+刘雨寒  Chilly20011008  
 
 # RISC-V组
 
