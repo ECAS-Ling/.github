@@ -15,7 +15,9 @@
 邵毅    Lyuansama  
 刘雨寒  Chilly20011008  
 
-# RISC-V组
+# RISC-V组  
+芮懿博  seed99615  
+王锐    shadowzero02  
 
 # 科研助理
 黄泽华  Edwardhzh
