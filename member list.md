@@ -16,8 +16,9 @@
 刘雨寒  Chilly20011008  
 
 # RISC-V组  
+连宇煜  GSSZZS  
 芮懿博  seed99615  
 王锐    shadowzero02  
 
 # 科研助理
-黄泽华  Edwardhzh
+黄泽华  Edwardhzh  
