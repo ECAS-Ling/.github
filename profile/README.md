@@ -1,7 +1,7 @@
 ## ECAS-Ling
-ECAS (Embedded Computing Architecture and Systems) Group belongs to Ming Ling, School of Intergrated Circuits, Southeast University.  
-Group members are working on 3 areas: Vina, Quantitative Analysis and RISC-V.
-
+- ECAS (Embedded Computing Architecture and Systems) Group belongs to **Ming Ling**, School of Intergrated Circuits, Southeast University, China.    
+- Group members are working on 3 areas: **Vina, Quantitative Analysis and RISC-V**.  
+- Visit our [academic page](https://ecas-ling.github.io/) for more infomation about us.
 
 <!--
 
